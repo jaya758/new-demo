@@ -1,2 +1,3 @@
 # new-demo
-this is the practice repo
+This is the practice repo
+Author-jaya
